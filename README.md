@@ -1,21 +1,18 @@
-# i18n
+# Element-UI_VueI18n
 
-> A Vue.js project
+> This is a Element-UI project with VueI18n 
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
+npm install element-ui
+npm install vue-i18n
 
 # serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
