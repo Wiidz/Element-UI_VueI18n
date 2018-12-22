@@ -7,7 +7,7 @@
 ``` bash
 # install dependencies
 npm install
-npm install element-ui
+npm i element-ui -S
 npm install vue-i18n
 
 # serve with hot reload at localhost:8080
